@@ -1,5 +1,4 @@
 list = []
-
 a = input("Element? ")
 b = input("Element? ")
 c = input("Element? ")
