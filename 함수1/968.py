@@ -10,3 +10,4 @@ def function():
                 print("%d * %d = %d" % (i, j, i*j))
         print()
 function()
+

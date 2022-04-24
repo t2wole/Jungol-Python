@@ -3,3 +3,4 @@ def function(r):
 
 n = int(input())
 function(n)
+

@@ -7,3 +7,4 @@ def function():
             print(count, end=" ")
         print()
 function()
+

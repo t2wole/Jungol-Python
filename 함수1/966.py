@@ -10,3 +10,4 @@ def function(a, b, c):
 
 str = input().split()
 function(int(str[0]), str[1], int(str[2]))
+

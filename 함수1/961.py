@@ -3,3 +3,4 @@ def func(a):
         print("~!@#$^&*()_+|")
 num = int(input())
 func(num)
+
